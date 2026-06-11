@@ -1,0 +1,14 @@
+# Documentos privados - NO subir a GitHub
+_docs/
+
+# Configuración local de Claude Code
+.claude/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.log
