@@ -142,7 +142,7 @@ header .container {
 
 .logo {
     font-family: var(--font-heading);
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     font-weight: 800;
     text-decoration: none;
     color: var(--color-primary);
